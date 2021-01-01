@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mushroomID</string>
+    <string name="permission_deny_text">Required permissions denied. Exiting</string>
+    <string name="logo_description">Mushroom Finder</string>
+</resources>
