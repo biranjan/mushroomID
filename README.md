@@ -1,5 +1,6 @@
 # mushroomID
 Android app for mushroom identification
+[App Download Link](https://play.google.com/store/apps/details?id=com.biranjan.mushroomid)
 
 <img src="https://github.com/biranjan/mushroomID/blob/main/icons/feature_mushroom2.png" width="600" height="300">
 
